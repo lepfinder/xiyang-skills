@@ -1,0 +1,6 @@
+interface:
+  display_name: "希扬创意配图"
+  short_description: "为中文文章生成富有温润感、创意隐喻，且包含希扬IP的极简手绘配图"
+  default_prompt: "Use $xiyang-illustrations to 为这篇中文文章设计并生成具有希扬IP的手绘创意配图。"
+policy:
+  allow_implicit_invocation: true
